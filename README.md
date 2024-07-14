@@ -1,5 +1,7 @@
 # **A Supply Chain Analysis**
 
+![image](https://github.com/user-attachments/assets/41ccd5be-7920-4ea1-a808-9c96043271d8)
+
 ## Introduction
 In the bustling kitchens of London, avocado toast has become a breakfast staple, celebrated for its simplicity and health benefits. This project delves into the intricate supply chains of three essential ingredients that make up this beloved dish: avocado, olive oil, and sourdough bread.
 
